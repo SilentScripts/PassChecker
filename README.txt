@@ -67,6 +67,3 @@ Password policy customization
 
 ⚠️ Disclaimer:
 This tool is educational and for offline use only. Do not enter actual passwords from your accounts.
-
-License:
-MIT License
